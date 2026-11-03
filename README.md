@@ -9,7 +9,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/EXPERIENCE-NA-0284C7?style=for-the-badge&labelColor=020617" alt="Experience: NA"/>
-<img src="https://img.shields.io/badge/BASED%20IN-NA-0284C7?style=for-the-badge&labelColor=020617" alt="Location: NA"/>
+<img src="https://img.shields.io/badge/BASED%20IN-NA-0284C7?style=for-the-badge&labelColor=020617" alt="Location: pune"/>
 <img src="https://img.shields.io/badge/FOCUS-DEVOPS%20%C2%B7%20CLOUD%20%C2%B7%20CI%2FCD-0284C7?style=for-the-badge&labelColor=020617" alt="Focus"/>
 
 <br/><br/>
